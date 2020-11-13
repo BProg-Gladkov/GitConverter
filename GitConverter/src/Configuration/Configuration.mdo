@@ -102,6 +102,7 @@
   <reports>Report.СкоростьКонвертации</reports>
   <dataProcessors>DataProcessor.РегламентныеИФоновыеЗадания</dataProcessors>
   <dataProcessors>DataProcessor.КонвертацияВФорматEDT</dataProcessors>
+  <dataProcessors>DataProcessor.МояОбработка</dataProcessors>
   <informationRegisters>InformationRegister.ИнформацияПользователей</informationRegisters>
   <informationRegisters>InformationRegister.СостоянияВерсии</informationRegisters>
 </mdclass:Configuration>
